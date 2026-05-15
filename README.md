@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasimafridi&show_icons=true)
+![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=muhammadasimafridi&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimafridi&layout=compact)
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimafridi&layout=compact)
