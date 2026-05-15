@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asim Afridi</h1>
 <h3 align="center">Frontend Developer | JavaScript Learner | MERN Stack Student</h3>
 
-<img src="D:\Asim Afridi\Muhammad-Asim-Afridi-GitHub-Profile-Pic.png" width="100%"/>
+<img src="./Muhammad-Asim-Afridi-GitHub-Profile-Pic.png" width="100%"/>
 
 ---
 
