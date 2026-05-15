@@ -49,6 +49,6 @@ Frontend Developer | JavaScript Learner | MERN Stack Student
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasimafridi&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadasimafridi&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimafridi&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimafridi&layout=compact&theme=tokyonight"/>
