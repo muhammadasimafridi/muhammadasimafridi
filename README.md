@@ -15,7 +15,8 @@
 
 ## 🛠️ Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
 ---
