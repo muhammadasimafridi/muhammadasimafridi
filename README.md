@@ -4,7 +4,7 @@
 Frontend Developer | JavaScript Learner | MERN Stack Student
 </h3>
 
-<img src="./Muhammad-Asim-Afridi-GitHub-Profile-Pic.png" width="100%"/>
+<!-- <img src="./Muhammad-Asim-Afridi-GitHub-Profile-Pic.png" width="100%"/> -->
 
 ---
 
