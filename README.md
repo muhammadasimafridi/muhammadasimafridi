@@ -29,7 +29,7 @@ Frontend Developer | JavaScript Learner | MERN Stack Student
 
 - 🌍 Countries API Project
 - 🏫 School Website
-- ✂️ Tailor Shop Website
+- ✂️ Hotel Management
 
 ---
 
