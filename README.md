@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Asim Afridi</h1>
 
-<!--
-**muhammadasimafridi/muhammadasimafridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | React Learner | MERN Stack Student
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning MERN Stack
+- 💻 Building Frontend Projects
+- 📚 Improving React Skills
+- 🎯 Goal: Become Full Stack Developer
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</p>
+
+---
+
+## 📌 Current Projects
+
+- 🌍 Countries API Project
+- 🏫 School Website
+- ✂️ Hotel Management
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/muhammadasimafridi/">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/muhammadasimafridi/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasimafridi&show_icons=true&locale=en&layout=compact" alt="muhammadasimafridi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasimafridi&show_icons=true&locale=en" alt="muhammadasimafridi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasimafridi&" alt="muhammadasimafridi" /></p>
