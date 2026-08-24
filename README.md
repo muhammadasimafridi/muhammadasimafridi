@@ -41,8 +41,7 @@ Frontend Developer | React Learner | MERN Stack Student
 </a>
 
 <a href="https://linkedin.com/in/muhammadasimafridi/">
-  <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> -->
-  <img src="https://img.shields.io/badge/LinkedIn-blue" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
