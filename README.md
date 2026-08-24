@@ -25,9 +25,11 @@ Frontend Developer | React Learner | MERN Stack Student
 
 ## 📌 Current Projects
 
-- 🌍 Countries API Project
+- 🌍 Data Science & AI Specialist Professional Portfolio
+- 🌍 Data Science & Machine Learning Specialist Professional Portfolio
+- ✂️ Startup Website
+- 🌍 Graphic Designer Professional Portfolio
 - 🏫 School Website
-- ✂️ Hotel Management
 
 ---
 
@@ -39,7 +41,8 @@ Frontend Developer | React Learner | MERN Stack Student
 </a>
 
 <a href="https://linkedin.com/in/muhammadasimafridi/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> -->
+  <img src="https://img.shields.io/badge/LinkedIn-blue" />
 </a>
 </p>
 
